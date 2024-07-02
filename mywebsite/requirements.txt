@@ -1,0 +1,6 @@
+django
+keras
+tensorflow
+whitenoise
+psycopg2-binary
+pillow
